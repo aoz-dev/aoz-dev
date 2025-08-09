@@ -12,6 +12,16 @@ I have been interested in software for about 3 years. I started by coding Discor
 - 🚀 My website: [Soon..](https://)
 - 🔗 Discord server [Soon](https://)
 
+
+## 📌 Projects & Goals
+
+| Project Name        | Description                       | Status      
+|---------------------|-----------------------------------|---------------
+| Portfolio Website   | Personal showcase site            | 🚧 In Progress 
+| Discord Bot         | Multi-purpose community bot       | 🚧 In Progress 
+| Web App XYZ         | Small web app experiment          | 🚧 In Progress  
+
+
 # Skills
 
 <p >
