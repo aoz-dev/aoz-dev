@@ -20,5 +20,5 @@ Vivamus vel dolor id felis malesuada lobortis quis vitae tortor. Pellentesque ti
 
 # Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vsc" alt="Skills" />
 </p>
