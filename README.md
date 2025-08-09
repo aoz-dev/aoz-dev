@@ -1,4 +1,3 @@
-<!-- Site Ziyaretçi Sayacı -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=aoz-dev&color=red&style=plastic" alt="Profile Views" />
 </p>
