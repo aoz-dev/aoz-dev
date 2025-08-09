@@ -9,6 +9,7 @@ I have been interested in software for about 3 years. I started by coding Discor
 
 - 📬 Contact: [X](https://x.com/aozdevx)
 - 🌱 Project: [...](https://github.com/)
+- 🚀 My website: [Soon..](https://)
 
 # Skills
 
