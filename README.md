@@ -1,5 +1,5 @@
 <!-- Site Ziyaretçi Sayacı -->
-![Visitors](https://komarev.com/ghpvc/?username=aoz-devcolor=red&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=aoz-dev&color=red&style=for-the-badge)
 
 ---
 
