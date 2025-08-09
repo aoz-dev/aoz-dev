@@ -1,3 +1,17 @@
-## Hi there 
+<!-- Site Ziyaretçi Sayacı -->
+![Visitors](https://komarev.com/ghpvc/?username=aoz-devcolor=red&style=for-the-badge)
 
-- 🌱 I’m currently learning HTML5 + CSS3
+---
+
+<!-- Discord Profili (Lanyard API) -->
+[![Discord Presence](https://lanyard.cnrad.dev/api/1392225551401488526)](https://discord.com/users/1392225551401488526)
+
+---
+
+## 🛠 Tech I Use
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,github,vscode" />
+</p>
+
+---
+
