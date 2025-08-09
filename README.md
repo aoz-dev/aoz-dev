@@ -13,7 +13,7 @@ I have been interested in software for about 3 years. I started by coding Discor
 - 🔗 Discord server [Soon](https://)
 
 
-## 📌 Projects & Goals
+# Projects & Goals
 
 | Project Name        | Description                       | Status      
 |---------------------|-----------------------------------|---------------
