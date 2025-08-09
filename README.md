@@ -1,16 +1,12 @@
 <!-- Site Ziyaretçi Sayacı -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aoz-dev&color=red&style=for-the-badge" alt="Profile Views" />
-</p>
+![Visitors](https://komarev.com/ghpvc/?username=aoz-dev&color=red&style=plastic)
 
----
 
 ## 📌 About Me
 <p align="center">
 
 </p>
 
----
 
 <!-- Discord Profili -->
 <p align="center">
@@ -19,7 +15,6 @@
   </a>
 </p>
 
----
 
 ## 🛠 Skills
 <p align="center">
