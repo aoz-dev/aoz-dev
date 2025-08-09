@@ -9,6 +9,13 @@ I have been interested in software for about 3 years. I started by coding Discor
 
 - 📬 Contact: [X](https://x.com/aozdevx)
 
+# Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vscode,microsoft" alt="Skills" />
+</p>
+
+
 # Discord
 
 <p align="center">
@@ -17,8 +24,3 @@ I have been interested in software for about 3 years. I started by coding Discor
   </a>
 </p>
 
-# Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vscode,microsoft" alt="Skills" />
-</p>
