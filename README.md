@@ -5,6 +5,13 @@
 
 ---
 
+## 📌 About Me
+<p align="center">
+
+</p>
+
+---
+
 <!-- Discord Profili -->
 <p align="center">
   <a href="https://discord.com/users/1392225551401488526">
@@ -14,14 +21,7 @@
 
 ---
 
-## 🛠 Tech I Use
+## 🛠 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,github,vscode" alt="Skills" />
 </p>
-
----
-
-## 📌 About Me
-- 💻 Yazılım geliştirmeye meraklıyım.  
-- 🚀 Teknoloji ve inovasyon alanında ilerlemek istiyorum.  
-- 🎯 Hedefim yazılım alanında büyük projeler geliştirmek.  
