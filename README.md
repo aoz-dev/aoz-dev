@@ -10,7 +10,7 @@ I have been interested in software for about 3 years. I started by coding Discor
 - 📬 Contact: [X](https://x.com/aozdevx)
 - 🌱 Project: [Soon](https://github.com/)
 - 🚀 My website: [Soon..](https://)
-- 🔗 Discord server [Soon](https://)
+- 🔗 Discord server: [Soon](https://)
 
 
 # Projects & Goals
