@@ -7,7 +7,7 @@
 
 I have been interested in software for about 3 years. I started by coding Discord bots and now I continue with web development. I am actively working on CSS3. If you want to contact me, my contacts are below.
 
-- 📬 Contact: [Discord](https://discord.com/users/1392225551401488526)
+- 📬 Contact: [X](https://x.com/aozdevx)
 
 # Discord
 
