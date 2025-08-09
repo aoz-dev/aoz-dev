@@ -11,14 +11,14 @@ I have been interested in software for about 3 years. I started by coding Discor
 
 # Skills
 
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vscode,microsoft" alt="Skills" />
 </p>
 
 
 # Discord
 
-<p align="center">
+<p >
   <a href="https://discord.com/users/1392225551401488526" target="_blank" rel="noopener noreferrer">
     <img src="https://lanyard.cnrad.dev/api/1392225551401488526?borderRadius=20px&idleMessage=Probably%20coding..." alt="Discord Presence" />
   </a>
