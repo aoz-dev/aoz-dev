@@ -1,8 +1,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=aoz-dev&color=red&style=plastic" alt="Profile Views" />
-  [Discord](https://lanyard.cnrad.dev/api/1392225551401488526)
 </p>
-
+  [Discord](https://lanyard.cnrad.dev/api/1392225551401488526)
 
 
 # About Me
