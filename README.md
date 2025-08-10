@@ -1,5 +1,10 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=aoz-dev&color=red&style=plastic" alt="Profile Views" />
+  ![Status](https://img.shields.io/badge/currently-online-brightgreen)
+  ![Playing](https://img.shields.io/badge/playing-nothing%20rm-blueviolet)
+  ![Coding](https://img.shields.io/badge/coding-nothing%20rm-blue)
+  ![Listening](https://img.shields.io/badge/listening%20to-nothing%20rm-brightgreen)
+
 </p>
 
 # About Me
