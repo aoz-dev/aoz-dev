@@ -13,7 +13,6 @@ Feel free to reach out via the contacts below.
 - 🚀 Website: Coming soon...
 - 🔗 Discord: Coming soon...
 
----
 
 # Projects & Goals
 
@@ -23,7 +22,6 @@ Feel free to reach out via the contacts below.
 | Discord Bot        | Multi-purpose community bot    | 🚧 In Progress  |
 | Web App XYZ        | Small web app experiment       | 🚧 In Progress  |
 
----
 
 # Skills
 
@@ -31,7 +29,6 @@ Feel free to reach out via the contacts below.
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vscode,microsoft" alt="Skills" />
 </p>
 
----
 
 # Discord Presence
 
