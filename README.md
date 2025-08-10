@@ -1,7 +1,10 @@
-<p>
-  <img src="https://komarev.com/ghpvc/?username=aoz-dev&color=red&style=plastic" alt="Profile Views" />
-</p>
-![Discord](https://lanyard.cnrad.dev/api/1392225551401488526)
+<img src="https://komarev.com/ghpvc/?username=aoz-dev&color=red&style=plastic" alt="Profile Views" />
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+
+
 
 
 # About Me
