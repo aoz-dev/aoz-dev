@@ -1,9 +1,5 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=aoz-dev&color=red&style=plastic" alt="Profile Views" />
-  ![Status](https://lanyard.cnrad.dev/api/1392225551401488526?theme=dark&borderRadius=5px&idleMessage=Offline)
-
-
-
 </p>
 
 # About Me
