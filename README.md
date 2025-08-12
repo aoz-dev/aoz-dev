@@ -17,16 +17,9 @@ Feel free to reach out via the contacts below.
 
 | Project Name       | Description                    | Status          |
 |--------------------|--------------------------------|-----------------|
-| Portfolio Website  | Personal showcase site          | 🚧 In Progress  |
+| Portfolio Website  | Personal showcase site         | 🚧 In Progress  |
 | Discord Bot        | Multi-purpose community bot    | 🚧 In Progress  |
 | Web App XYZ        | Small web app experiment       | 🚧 In Progress  |
-
-
-# Skills
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vscode,microsoft" alt="Skills" />
-</p>
 
 
 # Discord Presence
