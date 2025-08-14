@@ -3,10 +3,9 @@
 
 # About Me
 
-I've been passionate about software for about 3 years. I started by coding Discord bots, and now I focus on web development. Currently, I'm actively improving my CSS3 skills.
+I have been interested in software projects for about 3 years and I have been actively using CSS3. I started my software adventure by coding Discord bots and now I am developing various projects and constantly learning. 
 
-Feel free to reach out via the contacts below.
-
+You can find important contact information about me below:
 - 📬 Contact: [X (formerly Twitter)](https://x.com/aozdevx)
 - 🌱 Projects: [GitHub](https://github.com/)
 - 🚀 Website: Coming soon...
